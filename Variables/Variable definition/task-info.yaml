@@ -4,17 +4,17 @@ files:
   visible: true
   placeholders:
   - offset: 231
-    length: 1
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 231
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 2fleudFYN6AcL8cKIBefEg==
-  - offset: 337
-    length: 25
+  - offset: 339
+    length: 20
     placeholder_text: '# Assign a new value'
     initial_state:
       length: 20
@@ -23,7 +23,7 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
-  - offset: 505
+  - offset: 493
     length: 31
     placeholder_text: '# Assign 2 to both a and b here'
     initial_state:
@@ -41,7 +41,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Variable+Definition
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 11 May 2022 12:32:38 UTC
 record: -1

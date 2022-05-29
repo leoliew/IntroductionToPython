@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 181
-    length: 43
+    length: 41
     placeholder_text: print("This line should not be printed!")
     initial_state:
       length: 41
       offset: 181
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: quGC1S2gpqr/q0ro33P6G0HAO4hU5lvnD8Qr12io0dXElN095CEo0cFotirdZRdk
   encrypted_text: RDpz4fzvGljYWPkTRn1d40ytJY+Aq/wX/I29uiHrlhsTYATIgo94DolOIPzJ/A4BUhsb4rC4xxVWoU/61g0cwkiR7b+raIQ1rkvBTIu3sdSSR46HsSF4mxcXv05mrtxGhFfXxUCV8Y/PUz+UoPqlmk4IqNc5/BsM0lgWq3nmqliZZb5zuPVSjDJqdT1Z7EHC2CebTEiS3tpKe9noPT9Y5mXD4qEu1H2zn6HWb2wSf1srvE1S8emZu/8geIjpIRi1W4lCo6Lk3rA7aCF1b5Lw/O93YCkIXgLblaPbrwCzyfo=
@@ -21,7 +21,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Introduction+/+Comments
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 11 May 2022 12:29:11 UTC
 record: -1

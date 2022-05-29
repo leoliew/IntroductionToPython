@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 100
-    length: 2
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 100
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: ZnvxBNjCe5Nx5JO336bOBQ==
   encrypted_text: WrY/UtV2HT7BQT1l7/ldtieajueWVKVgT1WLJQHyqaqunumb4hQnVFpUMVOdeOUUZrEhtsoPKiAy/lMpJqlkIyM8qd5ioFBYBd+9p2dkXEstz645s0r6GTkDTFLIWFVkUV3R6Dk3PqZdL1N52jh7WUX1KDUVddXEQQi8jaXSIhIFdUiE3TmHwdfJDrcHfSr7
@@ -21,7 +21,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Assignments
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 11 May 2022 13:06:25 UTC
 record: -1

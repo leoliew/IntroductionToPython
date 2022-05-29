@@ -1,13 +1,5 @@
 type: edu
 files:
-- name: input.txt
-  visible: true
-  encrypted_text: mupayJZvvZT7Pr8Bu3BGIW9Hc+n07Sq1puqlxoUJ1uQUG3Jhk3TnnJi783aLsPAg8oFfBGuoEwQMgarGMnun7DeyBjomuKYvsiAMsnJIWe/8R2Vsd+dDX0yo6aSU7SWV
-  learner_created: false
-- name: input1.txt
-  visible: true
-  encrypted_text: 2fOEQVGtZ/rvOiYw2PjKz0X0kpLy8sSKQYyfWqMb4Z8=
-  learner_created: false
 - name: open_file.py
   visible: true
   placeholders:
@@ -32,6 +24,14 @@ files:
     status: Unchecked
     encrypted_possible_answer: GLfjqX8FAMv5bbIEND3/XA==
   encrypted_text: ClONeCJ89xM+YLBHqI0uT9mqDLNZoQ6T75bBp6qegFKfRt+TbWz5PrGlYiQjGQS43dOR3e5xCwFmkEktoOZlnLQEVwNGjINwpcyrqlN5BxpVJSrvB+5yoVZso6VvKXckatygmvKjdKuwxVQ0HFUtDHi22P4EvOoY5OACjxj9//354M46rAPgSYrmggCINRwRHk7lb6OPuLW0H6dHXFzxMugtmoify2csn6XmHqb7bRYKwiofnXosnGtVOfYisDWTqb9PpCQJCvkuPJBhLaBXvQcpUm3ujYUwJ2BpljvkO8VuS4YGZbso2RZJLYVoQzoCEsjX53Qj7nITaQfNceFvbD0WsAAqwEWu2NNQTP3Ig6AxExgoKiPL/HJnpjmJzTMIS9Ko7OLnuQ56rC1OhGHd2YoWfNsKHoCLhAvqzEn5Oy1c1HlVZo+8dXRVo5Y/0gm6DXHXGd86eSSMplm3nfN/LrtCgJ8751/dDuas+VROMl9SwTgtou8HFtjhoO85r9NlYqC8TfKQCVObU3/8WaKPKPA2B+8HE0/EYNJPVlJTEh5+Q5fJvSWbOQSLApGdOEOZC91P7D7DTp3X+QP6qBjeL/0aXIGYAsjZK39N08VfMPo=
+  learner_created: false
+- name: input.txt
+  visible: true
+  encrypted_text: mupayJZvvZT7Pr8Bu3BGIW9Hc+n07Sq1puqlxoUJ1uQUG3Jhk3TnnJi783aLsPAg8oFfBGuoEwQMgarGMnun7DeyBjomuKYvsiAMsnJIWe/8R2Vsd+dDX0yo6aSU7SWV
+  learner_created: false
+- name: input1.txt
+  visible: true
+  encrypted_text: 2fOEQVGtZ/rvOiYw2PjKz0X0kpLy8sSKQYyfWqMb4Z8=
   learner_created: false
 - name: tests/__init__.py
   visible: false

@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 223
-    length: 17
+    length: 24
     placeholder_text: '"convert it to int here"'
     initial_state:
       length: 24
       offset: 223
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: UsHwocaSwLaBLhXjmtt7+UIqvg3hjN0XLVtAefSSHSQ=
   encrypted_text: YoOJiSbqbvZVuvvxZHm4glvjYH8+2/85XfTT2CADIbSHMcaowC5ZRNG3iwVBZ04WKVTy2PlfOSKVDlYN4H54SGnSpseCW9jvWnR9DREuoHLxqyx9IMl8zzefMuaeXjiBslVBPcTHDAPeZBN+JCrTBNuy7X/fD1mTRxTovDaSJr6E91FtEVyTh0P77ATxJWuRrenuCWdKxH4gerrGUimI9cCvZyt97J+5JFkHhqQcTtPtQoFmYLU9Zf59py3OnH3RPQJwyevsoAEZHddFZgGgLIN1hBjB1Wpqra3Bk0FA+y+EKw+rgZBCmQ0rpzTzAPXlL5AL/UYrojnxeo1p1S5PknYq/IOI6N3/h8EAD7Lry5aDD7p2aLEQgarq/wZM/eorMieJ6zdDAIX5NLSUKlF0XhYV3QD803sjcOEXkmOOIM+PC0vZsNms/ZqN58gQZvPYVOiBsvnk71X/dcw2WPl03ighK+rpgEMsOC854FAQeObeWgIyGCf63Td+CpOjqXBs4Og1LzrpMFpID7VtL9b/Sw==
@@ -21,7 +21,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Type+Conversion
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 11 May 2022 12:52:06 UTC
 record: -1

@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 165
-    length: 16
+    length: 3
     placeholder_text: ???
     initial_state:
       length: 3
       offset: 165
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: /6K5xZCishqzy5Q9PuIE5ZlNnIO/AVUNhZFtAmwKQfk=
   encrypted_text: 65qTBzJxhsJNiRt1kC+yDDM3NSr6KLYPAO/hMyrVUT4q64o7earLuG1gezDJWf8BxYZy+quTy0c7cHbip+WFwJkED076kpvC+Bp4uLnSO7uXZSzXelADrOUsm9XrXwQQ6xgBwYQ+Y8RUeiQtiule1Ya9lVM4uEqS+2KvkH9cg2NXwxVCPoVBYoJe/a1fBiNuZNpNShG57RewWRKav/jvWj8aa0BDky6QKJMiGgLOaekhWrJJKN+9nMS8FqTClBNv
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Slicing
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 11 May 2022 13:30:51 UTC
 record: -1

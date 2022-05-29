@@ -10,7 +10,7 @@ files:
       length: 1
       offset: 213
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: WDXBZttNfAVbbyebeCpJoA==
   - offset: 367
@@ -20,7 +20,7 @@ files:
       length: 1
       offset: 367
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 8H1MCk2SdPPp0ZNJUIcSaw==
   - offset: 522
@@ -30,7 +30,7 @@ files:
       length: 1
       offset: 522
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 8H1MCk2SdPPp0ZNJUIcSaw==
   - offset: 530
@@ -40,27 +40,27 @@ files:
       length: 1
       offset: 530
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: WDXBZttNfAVbbyebeCpJoA==
   - offset: 711
-    length: 2
+    length: 1
     placeholder_text: '?'
     initial_state:
       length: 1
       offset: 711
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 7Wv+S0/gr4/qhsKnO1S70Q==
-  - offset: 863
-    length: 2
+  - offset: 862
+    length: 1
     placeholder_text: '?'
     initial_state:
       length: 1
       offset: 862
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 7fwRgGhI1XP/fa9HQT0KaQ==
   encrypted_text: 5ND7RewyazfDEHM4lyuzJzIfoECsX8fCLBs1jK8P+fwNkgEPj4Bzx2xhcPReSQjnWMKzWYnK9Ed7jHUBpj9WMb53PpQbGWdrQYEsNkS2KxKeiEifsZxgnhgACMv1+6RlkE4J70lckP3FwoI8TGVWI6MhhAWUIhz/ugtamTovWcbMuCzplNtl37RT36ERXM79Lvuk6ZTih75E3OjR5ZexL+FfOxbq0/bpu7Sv+tkSzP9znHa3Yx9eFDTNnEqpc+s1sxBBWYCszvVt41So1/56LktilPpoVNUwrZVmhD493wnZEXeKzPHNSVvU8Ma+es4VZ8nQOzK661oVTpZp3Nr5jNEEUvdhYWOz7sPR5BDS+dvlB89AHevbNt/5FDeMHVcmIu2lqE55hBPDEZw35vD6/9hUsLhDiFVMgjXt9l8gpuPy5rSyIuC8DByO21O/vlQGhS/VeiBZ6lbdI+xmyGAVvGZR9sMI20/n6GKQ0ZTynZ3p16hCYcOV+7fSlvnhXeXb1NmPnRv2m1LvDnKCXrM41awlhYYNAn4bQhqKM/tSEVoyLtET3Di7mIJOhEq9pWSizTW7Nev+cho4l2BH5+rlQi1B4/BzIcEIGge1Mp8h23zXe1Dqfksml9oHvYxqp/d1o+K0Kj+Ftw6kfed1Xq0n9+7VStds7buTlWZNdDa4Z0C1UIDPVZbNr2BBVJw+kgI6FbWDKiTpdh05I9RW1mcXan669ves7iwhnyclXuhD+E/aapBvgQW0m61nXrcN3pKBh8wr0VPddIFtS40Lwb40CzYuLLq0xAtQQy8ET4VkW7GBI5NPaNaQE+CBdKQTNAMg6gRprGmWJbivf+rtXgSZDcfoIvOhru14cafIBH4WHKwRDAwqRHq0rcrxd0ToNMzmqWOqWl1S9Xt0IFeAdU0hqMAZIt0mQT6ZaZ8tV12Yc/HwyqpxdCNJw6k3iOzJfq7dA4KCHuFHwT+uASoH9FNeyCYYLM2DKA3ECNREfhoYLp5NH4nTxMu5niVh4tId7F2Jofzg9Il+SI0Q2Ojkt9x7w7hYQglA9OIOdNlzbXJScCuhCmRdI55AUyma1ZwKrdZChNevyl/XO1qkKyCp9DI5Kdd358iEMtzrdzKoGZ2W3OJPYrWTy7vCFX87BFQYhauwqdec+cN0qHNDA+W6miB3jWtTyAf3+8wFVM1Lcxsigl6qjzgLEvlD8UO4ELSkWual8RDNwvlLQ9DrjYtWz2UMvfOpiiwV5cC14Ik50WCaJO51n8//ikoLXQ8H2ywK8P4Xy8E0RnHve8om3SwnGYFsbU/sAKl9UvvBdkaWkncAfaWSWgB8pcU5afhT+4WzxBNO
@@ -71,7 +71,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Comparison+Operators
 status: Solved
-feedback:
-  message: Congratulations!
-  time: Wed, 11 May 2022 13:13:36 UTC
 record: -1
