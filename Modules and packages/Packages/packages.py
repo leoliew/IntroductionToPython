@@ -2,10 +2,10 @@ import functions.goodbye as bye
 import functions.greeting.hello
 from classes import calculator
 # Import the `official` module here
-
+import functions.greeting.official as official
 
 print(functions.greeting.hello.hello('Susan'))
-print('Say goodbye to Alex')
+print(bye.good_bye("Alex"))
 
 c = calculator.Calculator()
 c.add(2)
