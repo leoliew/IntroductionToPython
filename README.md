@@ -12,3 +12,5 @@
 
   <p>P.S. Want to contribute? Feel free to send a pull request to this course’s
   <a href=”https://github.com/jetbrains-academy/introduction_to_python”>git repo</a>.</p>
+
+> [Some notes during the learning process](https://www.leoliew.me/notes/IntroductionToPython/)

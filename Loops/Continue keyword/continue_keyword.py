@@ -5,5 +5,7 @@ for i in range(5):
 
 for x in range(10):
     # Add a condition
+    if x % 2 == 0:
         # Add a keyword to skip print(x) for this loop
+        continue
     print(x)
