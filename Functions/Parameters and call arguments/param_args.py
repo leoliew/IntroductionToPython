@@ -6,6 +6,7 @@ foo(5)  # Pass 5 to foo(). Here 5 is an argument passed to function foo.
 
 
 # Define a function named "square" that prints square of passed parameter
+def square(x):
     print(x ** 2)
 
 
