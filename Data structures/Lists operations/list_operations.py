@@ -8,4 +8,5 @@ animals.append("dino")   # Add one more item to the list using append() method
 print(animals)
 
 # Replace "dino" with "dinosaur" here
+animals[animals.index("dino")] = "dinosaur"
 print(animals)
