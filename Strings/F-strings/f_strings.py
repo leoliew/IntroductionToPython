@@ -1,3 +1,3 @@
-name = ???
-age = ???
-print(f"Hello, My name is ??? and I'm ??? years old.")
+name = 'Leo'
+age = 20
+print(f"Hello, My name is {name} and I'm {age} years old.")
